@@ -1,0 +1,9 @@
+{
+  "name": "EUMETISE Virtual Ward Platform",
+  "description": "A production-grade, monorepo frontend system for Connected Care, featuring Control Center, Command Center, and Care Hub apps with advanced security and personalisation engines.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

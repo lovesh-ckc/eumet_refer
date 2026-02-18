@@ -1,0 +1,13 @@
+{
+  "name": "@eumetise/config",
+  "version": "0.0.1",
+  "exports": {
+    "./eslint-preset": "./eslint-preset.js",
+    "./tailwind-preset": "./tailwind-preset.ts"
+  },
+  "dependencies": {
+    "eslint-config-next": "^14.1.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-react": "^7.33.0"
+  }
+}

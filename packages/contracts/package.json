@@ -1,0 +1,6 @@
+{
+  "name": "@eumetise/contracts",
+  "version": "0.0.1",
+  "description": "Generated TypeScript interfaces from Backend OpenAPI spec",
+  "main": "index.ts"
+}

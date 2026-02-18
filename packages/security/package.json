@@ -1,0 +1,10 @@
+{
+  "name": "@eumetise/security",
+  "version": "0.0.1",
+  "main": "./src/index.tsx",
+  "types": "./src/index.tsx",
+  "dependencies": {
+    "react": "^18.2.0",
+    "@eumetise/state": "workspace:*"
+  }
+}
